@@ -6,3 +6,5 @@ Team Members:
 3. Namitha Shetty
 4. Shruthi Kashyap
 5. Anup Gade
+6. Hrishikesh Patil
+7. Vashidhar
