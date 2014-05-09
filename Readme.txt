@@ -1,4 +1,4 @@
-Cmpe203 - Project (Spring 2014) - Prof. Keith Perry
+Cmpe203 - Project (Team 03 --> Spring 2014) - Prof. Keith Perry
 
 Team Members:
 1. Amit Dikkar
